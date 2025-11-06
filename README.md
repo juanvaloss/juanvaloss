@@ -22,7 +22,7 @@
             </ul>
             <ul style = "margin-left: 20px">
                 </li>
-                <br/> 🚀 Interested in <b>Cloud Computing, </b> <b>Quality Assurane </b> and <b>Data Science</b>.
+                <br/> 🚀 Interested in <b>Cloud Computing, </b> <b>Software Engineering,</b><b> Backend Development</b> and <b>Data Science</b>.
             </ul>
             <p>You can contact me on <a href = "https://www.linkedin.com/in/juanvaloss/">Linkedin </a> 
             </p>
